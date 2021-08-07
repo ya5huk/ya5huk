@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ya5huk
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Web dev (React, JS, TS, MongoDB, etc...)
+- 👀 Web development
+- 🌱 Currently learning Web dev (React, JS, TS, MongoDB, etc...)
 - 📫 To reach me --> email ilan147963@gmail.com
 
 <!---
