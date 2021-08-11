@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ya5huk
 - 👀 Web development
-- 🌱 Currently learning Web dev (React, JS, TS, MongoDB, etc...)
+- 🌱 Currently learning Web dev (React.js / Next.js)
 - 📫 To reach me --> email ilan147963@gmail.com
 
 <!---
