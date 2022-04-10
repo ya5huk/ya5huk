@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ya5huk
-- 👀 Web development
-- 🌱 Currently learning Web dev (React.js / Next.js)
+- 👀 Just trying to make life easier through developing
+- 🌱 Currently working on Tracky -> A Gym & Track & Running social progress tracker
 - 📫 To reach me --> email ilan147963@gmail.com
 
 <!---
