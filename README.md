@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ya5huk
 - 👀 Just trying to make life easier through developing
-- 🌱 Currently working on Tracky -> A Gym & Track & Running social progress tracker
 - 📫 To reach me --> email ilan147963@gmail.com
 
 <!---
